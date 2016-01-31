@@ -2,4 +2,4 @@
 var log = function(str){
   console.log(str);
 }
-log(select(".test"));
+log(select(".test .second"));
